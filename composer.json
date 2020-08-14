@@ -1,0 +1,15 @@
+{
+	"name": "medienbaecker/kirby-autofavicon",
+	"description": "Kirby AutoFavicon",
+	"type": "kirby-plugin",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Thomas Günther",
+			"email": "mail@medienbaecker.com"
+		}
+	],
+	"require": {
+		"getkirby/composer-installer": "^1.1"
+	}
+}
