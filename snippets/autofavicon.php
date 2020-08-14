@@ -1,0 +1,2 @@
+<link rel="icon" type="image/svg+xml" href="<?= $site->url() ?>/favicon.svg">
+<link rel="mask-icon" sizes="any" href="<?= $site->url() ?>/favicon.svg" color="<?= option('medienbaecker.autofavicon.color') ?>">
