@@ -1,6 +1,6 @@
 # Kirby AutoFavicon
 
-Automatically generate an SVG favicon. Simply inser `<?php snippet('autofavicon') ?>` in your `<head>` and the plugin will insert link tags for modern browsers and Safari.
+Automatically generates an SVG favicon. Simply insert `<?php snippet('autofavicon') ?>` in your `<head>` and the plugin will insert link tags for modern browsers and Safari.
 
 ## Options
 
