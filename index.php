@@ -4,7 +4,7 @@ Kirby::plugin('medienbaecker/autofavicon', [
 	'options' => [
 		'color' => '#000000',
 		'color_dark' => '#ffffff',
-		'text' => kirby()->site()->title()->value()[0]
+		'text' => kirby()->site()->title()->value()[0] ?? 'K'
 	],
 	'snippets' => [
 		'autofavicon' => __DIR__ . '/snippets/autofavicon.php'
