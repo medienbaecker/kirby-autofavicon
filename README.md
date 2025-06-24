@@ -1,4 +1,4 @@
-# Custom: Kirby AutoFavicon
+# Custom mod for Kirby AutoFavicon (org by (https://github.com/medienbaecker/kirby-autofavicon)
 
 Automatically generates an SVG favicon. Simply insert `<?php snippet('autofavicon') ?>` in your `<head>` and the plugin will add link tags for modern browsers and Safari.
 
