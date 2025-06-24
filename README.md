@@ -17,7 +17,7 @@ return [
 	'medienbaecker.autofavicon.text' => '68',
 	'medienbaecker.autofavicon.color' => '#000000',
 	'medienbaecker.autofavicon.color_dark' => '#ffffff',
-	//mod
+	#mod
   	'medienbaecker.autofavicon.text_color' => '#ffffff',
 	'medienbaecker.autofavicon.text_color_dark' => '#000000',
 ]
