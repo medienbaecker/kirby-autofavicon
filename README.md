@@ -1,4 +1,4 @@
-# Kirby AutoFavicon
+# Custom: Kirby AutoFavicon
 
 Automatically generates an SVG favicon. Simply insert `<?php snippet('autofavicon') ?>` in your `<head>` and the plugin will add link tags for modern browsers and Safari.
 
@@ -8,11 +8,16 @@ Automatically generates an SVG favicon. Simply insert `<?php snippet('autofavico
 
 By default, AutoFavicon will use the first letter of your site title and a black or white background color — depending on the system's `prefers-color-scheme` setting.
 
+
+## Custom: Added text color options.
+
 ```php
 # site/config/config.php
 return [
-	'medienbaecker.autofavicon.text' => 'B',
-	'medienbaecker.autofavicon.color' => '#000000',
-	'medienbaecker.autofavicon.color_dark' => '#FFFFFF'
+	'medienbaecker.autofavicon.text' => '68',
+	'medienbaecker.autofavicon.text_color' => '#ffffff',
+  	'medienbaecker.autofavicon.color' => '#000000',
+  	'medienbaecker.autofavicon.color_dark' => '#ffffff',
+  	'medienbaecker.autofavicon.text_color_dark' => '#000000',
 ]
 ```
