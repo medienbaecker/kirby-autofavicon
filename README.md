@@ -15,8 +15,8 @@ By default, AutoFavicon will use the first letter of your site title and a black
 # site/config/config.php
 return [
 	'medienbaecker.autofavicon.text' => '68',
+	'medienbaecker.autofavicon.color' => '#000000',
 	'medienbaecker.autofavicon.text_color' => '#ffffff',
-  	'medienbaecker.autofavicon.color' => '#000000',
   	'medienbaecker.autofavicon.color_dark' => '#ffffff',
   	'medienbaecker.autofavicon.text_color_dark' => '#000000',
 ]
