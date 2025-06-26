@@ -7,7 +7,7 @@ Automatically generates an SVG favicon. Simply insert `<?php snippet('autofavico
 By default, AutoFavicon will use the first letter of your site title and a black or white background color — depending on the system's `prefers-color-scheme` setting.
 
 
-## Custom: Added text color options.
+## Added text color options.
 
 ```php
 # site/config/config.php
