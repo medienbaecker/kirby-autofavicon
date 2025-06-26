@@ -8,17 +8,6 @@ Kirby::plugin('medienbaecker/autofavicon', [
 		'text_color' => '#ffffff',
 		'text_color_dark' => '#000000',
 	],
-	// 👇 This adds a GitHub link to the Panel menu
-	'panel' => [
-		'menu' => [
-			[
-				'label' => 'AutoFavicon on GitHub',
-				'icon'  => 'code',
-				'link'  => 'https://github.com/medienbaecker/kirby-autofavicon',
-				'target' => '_blank' // Open in new tab
-			]
-		]
-	],
 	'snippets' => [
 		'autofavicon' => __DIR__ . '/snippets/autofavicon.php'
 	],
