@@ -1,6 +1,3 @@
-# Custom mod for Kirby AutoFavicon
-orginal plugin by (https://github.com/medienbaecker/kirby-autofavicon)
-
 Automatically generates an SVG favicon. Simply insert `<?php snippet('autofavicon') ?>` in your `<head>` and the plugin will add link tags for modern browsers and Safari.
 
 ![Preview](https://user-images.githubusercontent.com/7975568/90232430-f808d380-de1c-11ea-8e02-164142d19e1d.gif)
@@ -18,7 +15,6 @@ return [
 	'medienbaecker.autofavicon.text' => '68',
 	'medienbaecker.autofavicon.color' => '#000000',
 	'medienbaecker.autofavicon.color_dark' => '#ffffff',
-	#mod
   	'medienbaecker.autofavicon.text_color' => '#ffffff',
 	'medienbaecker.autofavicon.text_color_dark' => '#000000',
 ]
