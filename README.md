@@ -20,3 +20,7 @@ return [
 	'medienbaecker.autofavicon.text_color_dark' => '#000000',
 ]
 ```
+
+## Contributors
+
+Thanks to [sixtyeight](https://github.com/studio-sixtyeight) for adding the `text_color` and `text_color_dark` options.
