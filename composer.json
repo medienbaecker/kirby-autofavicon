@@ -2,7 +2,7 @@
   "name": "medienbaecker/kirby-autofavicon",
   "description": "Kirby AutoFavicon",
   "type": "kirby-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "authors": [
     {
